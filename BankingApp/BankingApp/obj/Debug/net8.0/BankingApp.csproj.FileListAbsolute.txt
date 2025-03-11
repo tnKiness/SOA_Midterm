@@ -1,0 +1,8 @@
+X:\SOA_Midterm\BankingApp\BankingApp\obj\Debug\net8.0\BankingApp.csproj.AssemblyReference.cache
+X:\SOA_Midterm\BankingApp\BankingApp\obj\Debug\net8.0\BankingApp.GeneratedMSBuildEditorConfig.editorconfig
+X:\SOA_Midterm\BankingApp\BankingApp\obj\Debug\net8.0\BankingApp.AssemblyInfoInputs.cache
+X:\SOA_Midterm\BankingApp\BankingApp\obj\Debug\net8.0\BankingApp.AssemblyInfo.cs
+X:\SOA_Midterm\BankingApp\BankingApp\obj\Debug\net8.0\BankingApp.csproj.CoreCompileInputs.cache
+X:\SOA_Midterm\BankingApp\BankingApp\obj\Debug\net8.0\BankingApp.MvcApplicationPartsAssemblyInfo.cs
+X:\SOA_Midterm\BankingApp\BankingApp\obj\Debug\net8.0\BankingApp.MvcApplicationPartsAssemblyInfo.cache
+X:\SOA_Midterm\BankingApp\BankingApp\obj\Debug\net8.0\BankingApp.sourcelink.json
